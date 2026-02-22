@@ -35,7 +35,7 @@ export default function Navbar() {
                         id="nav"
                     >
                         <Link href="/" className="font-bold text-lg">
-                            @gjdeep
+                            @imjaideep
                         </Link>
                         <div className="flex flex-row space-x-0 pr-10">
                             {Object.entries(navItems).map(

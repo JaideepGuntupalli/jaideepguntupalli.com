@@ -25,7 +25,7 @@ const graphik = localFont({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://gjdeep.dev"),
+    metadataBase: new URL("https://imjaideep.com"),
     title: {
         default: "Jaideep Guntupalli",
         template: "%s | Jaideep Guntupalli",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
         title: "Jaideep Guntupalli",
         description:
             "I'm a software engineer immersed in React, Next.js and a hardcore Typescripter. Just messing around, building and writing about awesome stuff!",
-        url: "https://gjdeep.dev",
+        url: "https://imjaideep.com",
         siteName: "Jaideep Guntupalli",
         locale: "en_US",
         type: "website",
@@ -75,7 +75,7 @@ export default function RootLayout({
             )}
         >
             <head>
-                <PlausibleProvider domain="gjdeep.dev" />
+                <PlausibleProvider domain="imjaideep.com" />
             </head>
             <body className="antialiased max-w-2xl flex flex-col md:flex-row mx-4 mt-8 md:mx-auto">
                 <main className="flex-auto min-w-0 mt-6 flex flex-col px-2 md:px-0">

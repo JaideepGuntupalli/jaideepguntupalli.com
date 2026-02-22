@@ -127,7 +127,7 @@ export default async function Page() {
                 <a href="mailto:guntupallijaideep@gmail.com">email</a> and I
                 tend to be pretty active on <a href="https://x.com/gjdeep">X</a>{" "}
                 and{" "}
-                <a href="https://www.linkedin.com/in/gjdeep/" target="_blank">
+                <a href="https://www.linkedin.com/in/imjaideep/" target="_blank">
                     LinkedIn
                 </a>{" "}
                 too.

@@ -19,14 +19,14 @@ export async function generateMetadata({
     }
 
     const { title, slug } = post;
-    const ogImage = `https://gjdeep.dev/og?title=${title}`;
+    const ogImage = `https://imjaideep.com/og?title=${title}`;
 
     return {
         title,
         openGraph: {
             title,
             type: "article",
-            url: `https://gjdeep.dev/projects/${slug}`,
+            url: `https://imjaideep.com/projects/${slug}`,
             images: [
                 {
                     url: ogImage,

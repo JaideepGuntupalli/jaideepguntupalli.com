@@ -5,7 +5,7 @@ export default function robots() {
                 userAgent: "*",
             },
         ],
-        sitemap: "https://gjdeep.dev/sitemap.xml",
-        host: "https://gjdeep.dev",
+        sitemap: "https://imjaideep.com/sitemap.xml",
+        host: "https://imjaideep.com",
     };
 }

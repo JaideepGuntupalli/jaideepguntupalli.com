@@ -1,4 +1,4 @@
-# gjdeep.dev
+# imjaideep.com
 
 This is the code base of Jaideep Guntupalli.
 

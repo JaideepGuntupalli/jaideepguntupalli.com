@@ -31,9 +31,9 @@ const computedFields = {
             dateModified: doc.publishedAt,
             description: doc.summary,
             image: doc.image
-                ? `https://gjdeep.dev${doc.image}`
-                : `https://gjdeep.dev/og?title=${doc.title}`,
-            url: `https://gjdeep.dev/blog/${doc._raw.flattenedPath}`,
+                ? `https://imjaideep.com${doc.image}`
+                : `https://imjaideep.com/og?title=${doc.title}`,
+            url: `https://imjaideep.com/blog/${doc._raw.flattenedPath}`,
             author: {
                 "@type": "Person",
                 name: "Lee Robinson",

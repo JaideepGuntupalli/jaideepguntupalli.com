@@ -6,14 +6,6 @@ export default function footer() {
             <div className="text-zinc-500">Jaideep Guntupalli © 2023</div>
             <div>
                 <div className="flex flex-row space-x-4 items-center mb-12">
-                    <a
-                        target="_blank"
-                        href="https://instagram.com/gjdeep/"
-                        aria-label="Visit my Instagram"
-                        className="block hover:text-zinc-700 transition-colors text-zinc-500"
-                    >
-                        <InstaLogo />
-                    </a>
 
                     <a
                         target="_blank"
@@ -25,7 +17,7 @@ export default function footer() {
                     </a>
                     <a
                         target="_blank"
-                        href="https://www.linkedin.com/in/gjdeep/"
+                        href="https://www.linkedin.com/in/imjaideep/"
                         aria-label="Visit my LinkedIn"
                         className="block hover:text-zinc-700 transition-colors text-zinc-500"
                     >
