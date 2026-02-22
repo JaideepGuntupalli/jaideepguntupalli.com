@@ -33,7 +33,7 @@ export default async function Page() {
                 <a href="https://github.com/jaideepguntupalli" target="_blank">
                     <img
                         alt="Jaideep Guntupalli"
-                        src="/jaideep.png"
+                        src="/jaideep.jpeg"
                         className="w-12 h-12 border-2 p-1 border-purple-400 rounded-full"
                     />
                 </a>
